@@ -1,1 +1,0 @@
-Ik geef toestemming om anonieme gegevens te delen over het surfgedrag op deze website om de gebruiksvriendelijkheid van onze website te verbeteren. Je kan dit later ook uitvinken. Ons privacybeleid (zie onze website) volgt de richtlijnen van de GDPR-wetgeving. (optioneel)
