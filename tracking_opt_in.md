@@ -1,1 +1,3 @@
 Ik geef toestemming om anonieme gegevens te delen over het surfgedrag op deze website om de gebruiksvriendelijkheid van onze website te verbeteren. Je kan dit later ook uitvinken. Ons privacybeleid [(zie onze website)](https://www.goodplanet.be/docs/gpb/05_Privacyverklaring-GoodPlanet-NL_20181017.pdf) volgt de richtlijnen van de GDPR-wetgeving. (optioneel)
+
+Je donne l'autorisation de partager des données anonymes sur le comportement de navigation sur ce site afin d'améliorer la facilité d'utilisation de notre site. Vous pouvez également le décocher plus tard. Notre politique de confidentialité [(voir notre site web)]((https://www.goodplanet.be/docs/gpb/09_Privacyverklaring-GoodPlanet-FR_20181017.pdf)) suit les lignes directrices de la législation GDPR. (facultatif)
