@@ -6,7 +6,7 @@ Good School DigitTool werkt samen met EnergieID, het meest gebruikte energie-mon
 
 EnergieID maakt het mogelijk om al je verzamelde gegevens van energie- en waterverbruik en afvalproductie bij te houden. Zij hebben ook de gegevens van andere scholen, zo kan je je vergelijken. Via EnergieID kan je ook helemaal automatisch je energiefactuur laten inladen in Good School Digitool. Zo moet je zelf niets meer doen.
 
-**OPMERKING: enkel voor scholen van de koepel Katholiek Onderwijs Vlaanderen via Klimaatscholen en GO! Scholen. 
+**OPMERKING: enkel voor scholen van de koepel Katholiek Onderwijs Vlaanderen via Klimaatscholen en GO! Scholen. **
 
 ### Waarom zie ik de grafiek niet verschijnen? (E)
 
