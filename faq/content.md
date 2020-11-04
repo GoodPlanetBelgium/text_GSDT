@@ -1,8 +1,8 @@
-### Wat is EnergyID? 
+### Wat is EnergieID? 
 
 Good School DigitTool werkt samen met EnergieID, het meest gebruikte energie-monitoringsplatform in België. EnergieID helpt je met meten en opvolgen van energie, water, afval en transport, individueel én collectief. Vind meer info op www.energieid.be. 
 
-### Waarom werken we samen met EnergyID?
+### Waarom werken we samen met EnergieID?
 
 EnergieID maakt het mogelijk om al je verzamelde gegevens van energie- en waterverbruik en afvalproductie bij te houden. Zij hebben ook de gegevens van andere scholen, zo kan je je vergelijken. Via EnergieID kan je ook helemaal automatisch je energiefactuur laten inladen in Good School Digitool. Zo moet je zelf niets meer doen.
 
