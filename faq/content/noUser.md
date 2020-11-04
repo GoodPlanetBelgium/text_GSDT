@@ -21,6 +21,8 @@ STAP 1: ga naar www.goodschooldigitool.be
 
 STAP 2: klik op de blauwe knop “Maak een nieuw account aan” 
 
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/maak%20een%20nieuw%20account%20aan.PNG)
+
 STAP 3: vul je gegevens in en accepteer de privacy voorwaarden
 
 STAP 4: selecteer je school. Zoek op de naam, adres, gemeente of postcode. Indien het niet meteen lukt, probeer een andere zoekterm.
@@ -43,6 +45,8 @@ STAP 1: ga naar www.goodschooldigitool.be
 
 STAP 2: klik op het profielicoon  rechtsboven op de home-pagina  
 
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/profielicoon.PNG)
+
 STAP 3: klik op “wachtwoord vergeten?” onderaan in het pop-up kader.
 
 STAP 4: geef je e-mailadres op. 
@@ -56,6 +60,8 @@ STAP 6: kies een nieuw wachtwoord
 STAP 1: ga naar www.goodschooldigitool.be
 
 STAP 2: klik op de groene knop “log in met je bestaande account”
+
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/login%20met%20je%20bestaande%20account.PNG)
 
 STAP 3: klik op “wachtwoord opnieuw instellen”
 
