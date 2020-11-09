@@ -1,5 +1,5 @@
-### Hoe een account aanmaken?
-#### Met een activatiecode 
+### 1. Hoe een account aanmaken?
+#### 1.1. Met een activatiecode 
  
 STAP 1: ga naar www.goodschooldigitool.be
 
@@ -15,7 +15,7 @@ STAP 4: vul je gegevens in en accepteer de privacy voorwaarden
 
 **OPMERKING: de activatiecodes zijn slechts éénmaal bruikbaar.
 
-#### Zonder activatiecode
+#### 1.2. Zonder activatiecode
  
 STAP 1: ga naar www.goodschooldigitool.be
 
@@ -31,15 +31,15 @@ STAP 4: selecteer je school. Zoek op de naam, adres, gemeente of postcode. Indie
 
 **OPMERKING: ben je de eerste die zich aanmeldt op jouw school? Dan ben jij de beheerder van dit account. Als beheerder kan je naast metingen ingeven en bekijken ook het account, gebruikers, gebouwen en meters beheren. Is jullie school reeds actief op GoodSchool DigiTool? Dan wordt je automatisch gebruiker en kan je alleen metingen ingeven en bekijken. Wil je van rol veranderen? Spreek dan de beheerder van jouw school aan. Deze kan jouw rol aanpassen.
 
-### Wat is een activatiecode (token)?
+### 2. Wat is een activatiecode (token)?
 
 De activatiecode voor GoodSchool DigiTool werd aangemaakt door een medewerker van GoodPlanet Belgium. Door deze unieke code aan te maken werd jouw school reeds geactiveerd binnen de tool en werd er een leeg  account voor jou aangemaakt. Wanneer jij deze activatiecode gebruikt neem je dit lege  account in gebruik en kom je rechtstreeks terecht op de pagina van jouw school. Zo wordt het proces om je aan te melden vereenvoudigd.
 
-### Wachtwoord vergeten? 
+### 3. Wachtwoord vergeten? 
 
 Er zijn twee manieren om je wachtwoord te wijzigen wanneer je dit bent vergeten:
 
-#### Via de home-pagina
+#### 3.1. Via de home-pagina
  
 STAP 1: ga naar www.goodschooldigitool.be
 
@@ -55,7 +55,7 @@ STAP 5: open je mailbox (kijk eventueel in je spam), open de mail van GoodSchool
 
 STAP 6: kies een nieuw wachtwoord
 
-#### Via knop “log in met je bestaande account”
+#### 3.2 Via knop “log in met je bestaande account”
  
 STAP 1: ga naar www.goodschooldigitool.be
 
