@@ -1,14 +1,16 @@
-### Wat is EnergieID? 
+### 1. Wat is EnergieID? 
 
 Good School DigitTool werkt samen met EnergieID, het meest gebruikte energie-monitoringsplatform in België. EnergieID helpt je met meten en opvolgen van energie, water, afval en transport, individueel én collectief. Vind meer info op www.energieid.be. 
 
-### Waarom werken we samen met EnergieID?
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/energie%20ID%20logo.png)
+
+### 2. Waarom werken we samen met EnergieID?
 
 EnergieID maakt het mogelijk om al je verzamelde gegevens van energie- en waterverbruik en afvalproductie bij te houden. Zij hebben ook de gegevens van andere scholen, zo kan je je vergelijken. Via EnergieID kan je ook helemaal automatisch je energiefactuur laten inladen in Good School Digitool. Zo moet je zelf niets meer doen.
 
 **OPMERKING: enkel voor scholen van de koepel Katholiek Onderwijs Vlaanderen via Klimaatscholen en GO! Scholen. **
 
-### Waarom zie ik de grafiek niet verschijnen? (E)
+### 3. Waarom zie ik de grafiek niet verschijnen? (E)
 
 Er zijn drie mogelijkheden.
 
@@ -18,7 +20,7 @@ Er zijn drie mogelijkheden.
 
 3) Er is verbinding met EnergieID en er zijn meters aangemaakt en er werden verbruiksgegevens ingevuld: Wacht dan een minuutje, de meters moeten gesynchroniseerd worden. Dit kan even duren omdat de nieuwe gegevens via EnergieID terug in de GoodSchool DigiTool moeten worden geladen.
 
-### Wat is het verschil tussen beheerder en gebruiker?   
+### 4. Wat is het verschil tussen beheerder en gebruiker?   
 
 Per school zijn er 2 type accounts: de beheerder en de gebruiker. Beide types komen op hetzelfde schoolaccount, maar er is een verschil in machtigingsniveau. 
 
@@ -26,7 +28,7 @@ OPMERKING: Voor een goede werking van het schoolaccount, activeer je het beheerd
 
 ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/gebruiker%20beheerder.png)
 
-### Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
+### 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 
 Om je school te vergelijken met andere scholen hebben we meer gegevens nodig over je school.
 
