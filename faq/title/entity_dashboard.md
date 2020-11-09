@@ -1,1 +1,1 @@
-Help voor de gebruiker
+Help voor de beheerder
