@@ -1,8 +1,8 @@
-### 2. Hoe maak ik een nieuwe meter aan?
+#### 2. Hoe maak ik een nieuwe meter aan?
 
 Ben je beheerder en wil je meters aanmaken in EnergieID? Klik dan hier om te lezen hoe je dit doet.
 
-### 3. Hoe geef je de resultaten van een meting in in GoodSchool DigiTool?
+#### 3. Hoe geef je de resultaten van een meting in in GoodSchool DigiTool?
 
 STAP 1: Een leerling gaat naar www.goodschooldigitool.be en meldt zich aan 
 
