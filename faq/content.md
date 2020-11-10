@@ -10,9 +10,11 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 
 #### Voor de beheerder
-1. Waarom moet ik verbinding maken met EnergieID?
-2. Waar voeg ik een nieuwe locatie toe?
-3. Hoe kan ik gebruikers beheren?
+1. Wat is de verbinding met EnergieID?
+2. Welke instellingen kan ik doen via EnergieID?
+3. Welke instellingen kan ik doen via Good School Digitool?
+4. Kan ik de gebruikers beheren?
+5. Waarom zie ik de meters niet verschijnen op Good School Digitool?
 
 #### Voor de gebruiker
 
