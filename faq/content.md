@@ -16,7 +16,7 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 
 #### Voor de gebruiker
 
-ENERGIE
+[ENERGIE](https://www.goodschooldigitool.be/faq#energy)
 
 - Meters
 
