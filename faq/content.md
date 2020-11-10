@@ -93,7 +93,7 @@ Om je school te vergelijken met andere scholen hebben we meer gegevens nodig ove
 
 2.	Jullie zijn al goed bezig met het doorgeven van jullie verbruik. Hou vol want wanneer we het verbruik van 12 opeenvolgende maanden hebben kunnen we jouw school vergelijken met andere scholen.
 
-#### 6. Welke leerdoelen worden er behaald met de Good School Digitool?
+### 6. Welke leerdoelen worden er behaald met de Good School Digitool?
 
 Voor het basisonderwijs helpte de GoodSchool Digitool je om vele eindtermen te behalen voor ICT, wetenschap en techniek en wiskunde. Namelijk:
 
