@@ -1,29 +1,41 @@
 Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? Stuur ons een mailtje op gsdt@goodplanet.be.
 
-Inhoudstafel:
+### Inhoudstafel:
 
-Algemeen
+#### Algemeen
 1. Wat is EnergieID? 
 2. Waarom werken we samen met EnergieID?
 3. Waarom zie ik de grafiek niet verschijnen?
 4. Wat is het verschil tussen beheerder en gebruiker?   
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 
-Voor de beheerder
+#### Voor de beheerder
+1. Waarom moet ik verbinding makent EnergieID?
+2. Waar voeg ik een nieuwe locatie toe?
+3. Hoe kan ik gebruikers beheren?
 
+#### Voor de gebruiker
 
-
-Voor de gebruiker
-
-Energie
+ENERGIE
 
 Meters
 
+1. Hoe meet je het energieverbruik? 
+2. Wanneer geef je de meterstanden door?
+3. Ingeven van vroegere meterstanden 
+4. Automatisch meterstanden doorgeven
+
+
 Grafieken
+
+5. Hoe kan ik het energieverbruik vergelijken met het aantal uren TV kijken? 
+6. Hoe kan ik een grafiek van mijn verbruik zien? 
+7. Waarom zie ik geen grafiek? 
+8. Kan ik mijn energieverbruik vergelijken met andere scholen? 
 
 Acties
 
-Water
+WATER
 
 Meters
 
