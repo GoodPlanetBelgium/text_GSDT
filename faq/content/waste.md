@@ -1,4 +1,4 @@
-Hier vind je alles voor het thema afval. 
+Hier vind je alles voor het thema afval. Vind je je vraag niet terug? Stuur een mailtje naar gsdt@goodplanet.be.
 
 #### 1. Hoe voer je een afvalmeting uit? 
 
