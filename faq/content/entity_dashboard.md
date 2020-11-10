@@ -1,4 +1,4 @@
-Hier vind je het antwoord op een heel deel vragen voor de beheerder. Zit je vraag er niet tussen? Stuur ons een mailtje op gsdt@goodplanet.be. Klik hier voor de handleiding voor EnergieID.
+Hier vind je het antwoord op een heel deel vragen voor de beheerder. Zit je vraag er niet tussen? Stuur ons een mailtje op gsdt@goodplanet.be. [Klik hier voor de handleiding voor EnergieID.](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/stappenplannen/Help%20voor%20EnergieID.pdf)
 
 
 ### 1. Wat kan je als beheerder op GoodSchool DigiTool
@@ -58,12 +58,12 @@ Good School Digitool is een jasje voor EnergieID en voor andere tools om te mete
 
 Je kan:
 
--	De schoolgegevens aanpassen
+-	De schoolgegevens aanpassen, naam van het dossier, aantal leerlingen, de vloeroppervlakte
 -	Nieuwe meters aanmaken en meters beheren
 -	Gegevens invullen en aanpassen
 -	Grafieken bekijken, per maand, cumulatief, historisch overzicht
 -	Vergelijken met andere scholen voor thema energie en water
 
-Klik hier voor de handleiding voor EnergieID.
+[Klik hier voor de handleiding voor EnergieID.](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/stappenplannen/Help%20voor%20EnergieID.pdf)
 
 
