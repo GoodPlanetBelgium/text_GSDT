@@ -10,17 +10,15 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 
 #### Voor de beheerder
-1. Wat is de verbinding met EnergieID?
-2. Welke instellingen kan ik doen via EnergieID?
-3. Welke instellingen kan ik doen via Good School Digitool?
-4. Kan ik de gebruikers beheren?
-5. Waarom zie ik de meters niet verschijnen op Good School Digitool?
+1. Wat kan je als beheerder op GoodSchool DigiTool
+2. Wat is de verbinding met EnergieID?
+3. Wat kan je als beheerder op EnergieID?
 
 #### Voor de gebruiker
 
 ENERGIE
 
-Meters
+- Meters
 
 1. Hoe meet je het energieverbruik? 
 2. Wanneer geef je de meterstanden door?
@@ -28,34 +26,34 @@ Meters
 4. Automatisch meterstanden doorgeven
 
 
-Grafieken
+- Grafieken
 
 5. Hoe kan ik het energieverbruik vergelijken met het aantal uren TV kijken? 
 6. Hoe kan ik een grafiek van mijn verbruik zien? 
 7. Waarom zie ik geen grafiek? 
 8. Kan ik mijn energieverbruik vergelijken met andere scholen? 
 
-Acties
+- Acties
 
 WATER
 
-Meters
+- Meters
 
-Grafieken
+- Grafieken
 
-Acties
+- Acties
 
-Afval
+AFVAL
 
-Meters
+- Meters
 
-Grafieken
+- Grafieken
 
-Acties
+- Acties
 
-Mobiliteit
+MOBILITEIT
 
-Acties
+- Acties
 
 ### 1. Wat is EnergieID? 
 
