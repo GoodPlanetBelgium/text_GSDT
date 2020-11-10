@@ -1,3 +1,5 @@
+Hier vind je alles voor het thema mobiliteit. Vind je het antwoord op je vraag niet? Stuur ons dan een mailtje op gsdt@goodplanet.be.
+
 #### Een meting ingeven
 
 Voor het thema mobiliteit heb je de kiosk nodig om te meten (zie Hoe vraag ik een kiosk aan?). Deze kan voor één of twee weken aan je school staan om de mobiliteit van de leerlingen en het personeel te meten. Op deze kiosk staan er vier knoppen, voor voetgangers, fietsers, gebruikers van het openbaar vervoer en automobilisten. Wanneer je je keuze maakt en op de knop drukt, dan is er een verklikkerlampje dat even oplicht. Dan ben je zeker dat je keuze goed is opgeslaan. Wanneer de kiosk terug van school vertrekt, dan staan alle gegevens op Good School Digitool.  
