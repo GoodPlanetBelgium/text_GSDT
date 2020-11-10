@@ -35,7 +35,7 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 
 - Acties
 
-WATER
+[WATER](https://www.goodschooldigitool.be/faq#water)
 
 - Meters
 
@@ -43,7 +43,7 @@ WATER
 
 - Acties
 
-AFVAL
+[AFVAL](https://www.goodschooldigitool.be/faq#waste)
 
 - Meters
 
@@ -51,7 +51,7 @@ AFVAL
 
 - Acties
 
-MOBILITEIT
+[MOBILITEIT](https://www.goodschooldigitool.be/faq#mobility)
 
 - Acties
 
