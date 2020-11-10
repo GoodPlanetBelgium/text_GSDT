@@ -10,7 +10,7 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 
 #### Voor de beheerder
-1. Waarom moet ik verbinding makent EnergieID?
+1. Waarom moet ik verbinding maken met EnergieID?
 2. Waar voeg ik een nieuwe locatie toe?
 3. Hoe kan ik gebruikers beheren?
 
