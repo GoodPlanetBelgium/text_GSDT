@@ -1,12 +1,12 @@
 ## Klaar? Start! Actie… Hoeraaa! 
 #### Je leerlingen kunnen aan de slag om gegevens te verzamelen over energie, water, afval en mobiliteit. Iets onbekend wordt heel gemakkelijk om te begrijpen. Ga nog een stapje verder en vier je vooruitgang! 
 
-</b>
-</b>
+</br>
+</br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2TaL-F7u-54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-</b>
+</br>
 
 #### Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.	
 
@@ -24,13 +24,13 @@
 
 ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/actie%20GP%20challenges.PNG) 
 
-</b>
+</br>
 
 #### In drie stappen:
 1.	Maak een account aan
 2.	Verbind je account met EnergieID of vraag een kiosk aan
 3.	Geef je metingen in	   
 
-</b>
+</br>
 
 Heb je vragen over de Good School Digitool? Wil je graag aan de slag met je leerlingen? Stuur ons een mailtje op gsdt@goodplanet.be
