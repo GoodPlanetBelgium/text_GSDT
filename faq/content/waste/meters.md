@@ -14,7 +14,7 @@ STAP 4: In het kader ‘METEN’ vind je al de vuilbakken terug. Vul in het witt
 
 Bijvoorbeeld: Is de vuilbak 1/2 vol, dan typ je 0,5. Is de vuilbak 3/4 vol, dan typ je 0,75. 
 
-#### 4. IK ZIE GEEN METERS OF VUILBAKKEN IN DE SCHOOLPAGINA?
+#### 4. Ik zie geen meters of vuilbakken?
 
 Dit kan komen door een van de drie onderstaan de redenen:
 
