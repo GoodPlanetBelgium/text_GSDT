@@ -1,3 +1,6 @@
+Hier vind je het antwoord op een heel deel vragen voor de beheerder. Zit je vraag er niet tussen? Stuur ons een mailtje op gsdt@goodplanet.be. Klik hier voor de handleiding voor EnergieID.
+
+
 ### 1. Wat kan je als beheerder op GoodSchool DigiTool
 
 Je kan:
