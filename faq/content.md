@@ -35,3 +35,9 @@ Om je school te vergelijken met andere scholen hebben we meer gegevens nodig ove
 1.	Klik op de actie "Extra schoolgegevens" in het kader 'acties' onderaan deze pagina. Vul hier het aantal leerlingen en de oppervlakte van de school in.
 
 2.	Jullie zijn al goed bezig met het doorgeven van jullie verbruik. Hou vol want wanneer we het verbruik van 12 opeenvolgende maanden hebben kunnen we jouw school vergelijken met andere scholen.
+
+#### 6. Welke leerdoelen worden er behaald met de Good School Digitool?
+
+Voor het basisonderwijs helpte de GoodSchool Digitool je om vele eindtermen te behalen voor ICT, wetenschap en techniek en wiskunde. Namelijk:
+
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/leerdoelen%20basisonderwijs.png)
