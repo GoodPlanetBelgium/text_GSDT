@@ -1,3 +1,48 @@
+Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? Stuur ons een mailtje op gsdt@goodplanet.be.
+
+Inhoudstafel:
+
+Algemeen
+1. Wat is EnergieID? 
+2. Waarom werken we samen met EnergieID?
+3. Waarom zie ik de grafiek niet verschijnen?
+4. Wat is het verschil tussen beheerder en gebruiker?   
+5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
+
+Voor de beheerder
+
+
+
+Voor de gebruiker
+
+Energie
+
+Meters
+
+Grafieken
+
+Acties
+
+Water
+
+Meters
+
+Grafieken
+
+Acties
+
+Afval
+
+Meters
+
+Grafieken
+
+Acties
+
+Mobiliteit
+
+Acties
+
 ### 1. Wat is EnergieID? 
 
 Good School DigitTool werkt samen met EnergieID, het meest gebruikte energie-monitoringsplatform in België. EnergieID helpt je met meten en opvolgen van energie, water, afval en transport, individueel én collectief. Vind meer info op www.energieid.be. 
@@ -10,7 +55,7 @@ EnergieID maakt het mogelijk om al je verzamelde gegevens van energie- en waterv
 
 **OPMERKING: enkel voor scholen van de koepel Katholiek Onderwijs Vlaanderen via Klimaatscholen en GO! Scholen. **
 
-### 3. Waarom zie ik de grafiek niet verschijnen? (E)
+### 3. Waarom zie ik de grafiek niet verschijnen?
 
 Er zijn drie mogelijkheden.
 
