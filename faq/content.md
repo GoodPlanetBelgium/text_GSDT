@@ -8,6 +8,7 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 3. Waarom zie ik de grafiek niet verschijnen?
 4. Wat is het verschil tussen beheerder en gebruiker?   
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
+6. Welke leerdoelen worden er behaald met de Good School Digitool?
 
 #### Voor de beheerder
 1. Wat kan je als beheerder op GoodSchool DigiTool
@@ -18,42 +19,49 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 
 [ENERGIE](https://www.goodschooldigitool.be/faq#energy)
 
-- Meters
-
 1. Hoe meet je het energieverbruik? 
 2. Wanneer geef je de meterstanden door?
 3. Ingeven van vroegere meterstanden 
 4. Automatisch meterstanden doorgeven
-
-
-- Grafieken
-
 5. Hoe kan ik het energieverbruik vergelijken met het aantal uren TV kijken? 
 6. Hoe kan ik een grafiek van mijn verbruik zien? 
 7. Waarom zie ik geen grafiek? 
 8. Kan ik mijn energieverbruik vergelijken met andere scholen? 
 
-- Acties
+
 
 [WATER](https://www.goodschooldigitool.be/faq#water)
 
-- Meters
+1. Hoe meet je het waterverbruik op school?
+2. Wanneer geef je de meterstanden door?
+3. Ingeven van vroegere meterstanden
+4. Hoe kan ik het waterverbruik vergelijken met het aantal baden dat hiermee kunnen genomen worden?
+5. Hoe kan ik een grafiek van mijn verbruik zien?
+6. Waarom zie ik geen grafiek?
+7. Kan ik mijn waterverbruik vergelijken met andere scholen?
 
-- Grafieken
 
-- Acties
 
 [AFVAL](https://www.goodschooldigitool.be/faq#waste)
 
-- Meters
+1. Hoe voer je een afvalmeting uit?
+2. Hoe maak ik een nieuwe meter aan?
+3. Hoe geef je de resultaten van een meting in in GoodSchool DigiTool?
+4. Ik zie geen meters of vuilbakken?
+5. Hoe kan ik mijn verbruik vergelijken met koeien of piano’s?
+6. Hoe kan ik een grafiek van mijn verbruik zien?
+7. Waarom zie ik geen grafiek?
+8. Kan ik mijn afvalverbruik vergelijken met andere scholen zoals bij het thema Energie?
 
-- Grafieken
 
-- Acties
 
 [MOBILITEIT](https://www.goodschooldigitool.be/faq#mobility)
 
-- Acties
+1. Een meting ingeven
+2. Een grafiek weergeven
+4. Een actie verkennen
+5. Een kiosk aanvragen voor je school
+
 
 ### 1. Wat is EnergieID? 
 
