@@ -8,17 +8,11 @@
  
 <br>
 
-|#### Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.	| ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/meters%20water%202.PNG)    |
+| Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.	| ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/meter%20water.PNG)    |
 | --- | --- |
-|#### Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.    | ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/grafiek%20afval%20koeien%20klein.PNG)     | 
-
-#### Je kan je vergelijken met andere scholen. Zo kunnen de leerlingen kritisch om gaan met het cijfermateriaal en de tabellen.	  
-
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/vergelijking%20school%20klein.png)  
-
-#### Je kan je klas of school inschrijven voor een actie. Durf jij een stapje verder te gaan voor het milieu en het klimaat? 
-
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/actie%20GP%20challenges.PNG) 
+| Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.    | ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/2%20koeien.PNG)     | 
+| Je kan je vergelijken met andere scholen. Zo kunnen de leerlingen kritisch om gaan met het cijfermateriaal en de tabellen.	  | ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/vergelijking%20school%20heel%20klein.png)  
+| Je kan je klas of school inschrijven voor een actie. Durf jij een stapje verder te gaan voor het milieu en het klimaat? | ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/actie%20GP%20challenges.PNG) |
 
 <br>
 
