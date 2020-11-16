@@ -17,6 +17,15 @@
 
 &nbsp;
 
+
+| Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.	| ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/meter%20water.PNG)   &nbsp; |
+| --- | --- |
+| ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/2%20koeien.PNG)   &nbsp; | Je leerlingen kunnen zelfstandig aan de slag om de metingen te doen. Ze leren waarnemen en noteren en ze oefenen op kommagetallen.     | 
+| Je kan je vergelijken met andere scholen. Zo kunnen de leerlingen kritisch om gaan met het cijfermateriaal en de tabellen.	  | ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/vergelijking%20school%20heel%20klein.png)  &nbsp; |
+| ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/actie%20GP%20challenges.PNG)| Je kan je klas of school inschrijven voor een actie. Durf jij een stapje verder te gaan voor het milieu en het klimaat?  |
+
+&nbsp;
+
 #### In drie stappen:
 1.	Maak een account aan
 2.	Verbind je account met EnergieID of vraag een kiosk aan
