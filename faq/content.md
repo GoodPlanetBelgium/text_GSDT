@@ -118,5 +118,5 @@ Jazeker! Dat is zelfs heel leuk om te doen. Wij begeleiden jullie hier graag in.
 
 Kijk al eens naar de resultaten van de gemeente Stekene in 2020 om je een beeld te vormen.
 
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobilit%C3%A9%20stekene.png)
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobiliteit%20stekene.png)
 
