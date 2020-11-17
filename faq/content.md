@@ -10,6 +10,9 @@ Hier vind je het antwoord op een heel deel vragen. Zit je vraag er niet tussen? 
 5. Waarom kan ik het energieverbruik van mijn school niet vergelijken met andere scholen?
 6. Welke leerdoelen worden er behaald met de Good School Digitool?
 
+#### Voor gemeenten en scholengroepen
+1. Kan je school zich vergelijken met een school uit de buurt?
+
 #### Voor de beheerder
 1. Wat kan je als beheerder op GoodSchool DigiTool
 2. Wat is de verbinding met EnergieID?
@@ -106,3 +109,14 @@ Om je school te vergelijken met andere scholen hebben we meer gegevens nodig ove
 Voor het basisonderwijs helpte de GoodSchool Digitool je om vele eindtermen te behalen voor ICT, wetenschap en techniek en wiskunde. Namelijk:
 
 ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/leerdoelen%20basisonderwijs.png)
+
+## Voor gemeenten en scholengroepen
+
+1. Kan mijn school zich vergelijken met een school uit de buurt?
+
+Jazeker! Dat is zelfs heel leuk om te doen. Wij begeleiden jullie hier graag in. Wil je werken rond energie, water, afval of mobiliteit? Stuur ons een mailtje op gsdt@goodplanet.be en wij staan klaar voor jullie!
+
+Kijk al eens naar de resultaten van de gemeente Stekene in 2020 om je een beeld te vormen.
+
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobilit%C3%A9%20stekene.png)
+
