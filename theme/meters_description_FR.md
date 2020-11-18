@@ -1,0 +1,1 @@
+C'est là que ça commence ! Ce sont les compteurs de votre école. Vous pouvez saisir le relevé de chaque compteur. Si vous faites cela tous les mois, vous aurez une bonne idée de la consommation de votre école. C'est aussi simple que cela !
