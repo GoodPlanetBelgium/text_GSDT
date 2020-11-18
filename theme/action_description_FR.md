@@ -1,0 +1,1 @@
+Vous avez maintenant une meilleure vue sur la consommation de votre école. Vous trouverez ici des actions qui peuvent réduire la consommation ! Nous sommes heureux de vous guider sur la voie d'une école plus durable. Cliquez sur "Plus d'infos" pour découvrir les actions et cliquez ensuite sur "Démarrer cette action" pour commencer. Nous sommes là pour vous !
