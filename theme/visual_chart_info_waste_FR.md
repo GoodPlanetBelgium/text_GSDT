@@ -1,3 +1,3 @@
 Tu as cliqué sur le graphique, bonne idée ! Maintenant tu peux voir combien de déchets vous avez jeté... par rapport au poids de bananes, de cannettes, de skateboards, de vélos, d'enfants, d'adultes, de pianos à queue, de vaches ou de voitures. Tu as donc peut-être une meilleure idée de ce que signifient tous ces kilos.
 
-**Tu savais? ? Les canettes de boisson vides peuvent être utilisées pour fabriquer de nouveaux objets. Pour un nouveau vélo, par exemple, il faut 670 canettes. On peut aussi fabriquer des panneaux solaires et de nouvelles canettes, bien sûr. Maintenant tu sais pourquoi il est important de recycler !**
+*Tu savais? ? Les canettes de boisson vides peuvent être utilisées pour fabriquer de nouveaux objets. Pour un nouveau vélo, par exemple, il faut 670 canettes. On peut aussi fabriquer des panneaux solaires et de nouvelles canettes, bien sûr. Maintenant tu sais pourquoi il est important de recycler !*
