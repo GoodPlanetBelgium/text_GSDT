@@ -1,0 +1,1 @@
+Hier begint het! Dit zijn de meters van je school. Je kan voor elke meter de meterstand ingeven. Als je dit elke maand doet, dan krijg je een mooi beeld van hoe veel je school verbruikt. Zo simpel is het!
