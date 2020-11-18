@@ -1,0 +1,1 @@
+Nu heb je een beter zicht op het verbruik van je school. Hier kan je acties vinden die het verbruik kunnen verminderen! Wij begeleiden je graag op weg naar een meer duurzame school. Klik op ‘Meer info’ om de acties te ontdekken en klik dan op ‘Start deze actie!’ om er mee aan de slag te gaan. Wij staan voor jullie klaar!
