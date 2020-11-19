@@ -118,5 +118,5 @@ Oui, c'est possible ! En fait, c'est très chouette à faire. Nous serons heureu
 
 Pour vous faire une idée, regardez les résultats de la municipalité de Stekene en 2020.
 
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobiliteit%20stekene.png)
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobilit%C3%A9%20stekene.png)
 
