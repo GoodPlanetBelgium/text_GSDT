@@ -110,7 +110,7 @@ Pour l'enseignement primaire, le GoodSchool Digitool vous aide à atteindre de n
 
 ## Pour les communes et les groupes scolaires
 
-1. Mon école peut-elle être comparée à une école du quartier ?
+### 1. Mon école peut-elle être comparée à une école du quartier ?
 
 Oui, c'est possible ! En fait, c'est très chouette à faire. Nous serons heureux de vous guider dans cette démarche. Vous voulez travailler sur l'énergie, l'eau, les déchets ou la mobilité ? Envoyez-nous un mail à gsdt@goodplanet.be et nous serons là pour vous !
 
