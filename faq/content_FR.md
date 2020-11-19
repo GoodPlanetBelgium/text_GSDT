@@ -94,7 +94,7 @@ Il existe 2 types de comptes par école : l'administrateur et l'utilisateur. Les
 
 REMARQUE : Pour que le compte de l'école fonctionne correctement, activez d'abord le compte de l'administrateur.  
 
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/gebruiker%20beheerder.png)
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/gebruiker%20beheerder%20FR.png)
 
 ### 5. Pourquoi ne puis-je pas comparer la consommation d'énergie de mon école avec celle d'autres écoles ?
 
@@ -106,9 +106,7 @@ Afin de pouvoir comparer votre école avec d'autres écoles, nous avons besoin d
 
 ### 6. Quels sont les objectifs d'apprentissage atteints avec le Good School Digitool ?
 
-Pour l'enseignement primaire, le GoodSchool Digitool vous aide à atteindre de nombreux niveaux de compétences en TIC, en sciences et technologies et en mathématiques. À savoir :
-
-![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/leerdoelen%20basisonderwijs.png)
+Pour l'enseignement primaire, le GoodSchool Digitool vous aide à atteindre de nombreux niveaux de compétences en TIC, en sciences et technologies et en mathématiques. 
 
 ## Pour les communes et les groupes scolaires
 
