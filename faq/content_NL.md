@@ -112,7 +112,7 @@ Voor het basisonderwijs helpte de GoodSchool Digitool je om vele eindtermen te b
 
 ## Voor gemeenten en scholengroepen
 
-1. Kan mijn school zich vergelijken met een school uit de buurt?
+### 1. Kan mijn school zich vergelijken met een school uit de buurt?
 
 Jazeker! Dat is zelfs heel leuk om te doen. Wij begeleiden jullie hier graag in. Wil je werken rond energie, water, afval of mobiliteit? Stuur ons een mailtje op gsdt@goodplanet.be en wij staan klaar voor jullie!
 
