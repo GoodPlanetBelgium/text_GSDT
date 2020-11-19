@@ -99,3 +99,24 @@ REMARQUE : Pour que le compte de l'école fonctionne correctement, activez d'abo
 ### 5. Pourquoi ne puis-je pas comparer la consommation d'énergie de mon école avec celle d'autres écoles ?
 
 Afin de pouvoir comparer votre école avec d'autres écoles, nous avons besoin de plus de données sur votre école.
+
+1.	Cliquez sur l'action "Données extra-scolaires" dans la case "actions" au bas de cette page. Indiquez le nombre d'élèves et la superficie de l'école.
+
+2.	Vous faites déjà un bon travail de transmission de votre consommation. Attendez, car lorsque nous avons la consommation de 12 mois consécutifs, nous pouvons comparer votre école avec d'autres écoles.
+
+### 6. Quels sont les objectifs d'apprentissage atteints avec le Good School Digitool ?
+
+Pour l'enseignement primaire, le GoodSchool Digitool vous aide à atteindre de nombreux niveaux de compétences en TIC, en sciences et technologies et en mathématiques. À savoir :
+
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/leerdoelen%20basisonderwijs.png)
+
+## Pour les communes et les groupes scolaires
+
+1. Mon école peut-elle être comparée à une école du quartier ?
+
+Oui, c'est possible ! En fait, c'est très chouette à faire. Nous serons heureux de vous guider dans cette démarche. Vous voulez travailler sur l'énergie, l'eau, les déchets ou la mobilité ? Envoyez-nous un mail à gsdt@goodplanet.be et nous serons là pour vous !
+
+Pour vous faire une idée, regardez les résultats de la municipalité de Stekene en 2020.
+
+![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/mobiliteit%20stekene.png)
+
