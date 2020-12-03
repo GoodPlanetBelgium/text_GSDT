@@ -1,6 +1,14 @@
 # text_GSDT
 Hier komen de teksten voor de website van GSDT. Als een soort opvolging van de veranderingen en voor de toekomst. In de toekomst kunnen de teksten direct vanuit hier geladen worden.
 
+Overzicht van de welkoms pagina
+
+- welcome_message_FR.md
+- welcome_message_NL.md
+- welcome_message_footer_FR.md
+- welcome_message_footer_NL.md 
+- demo.md (niet in productie)
+
 Overzicht van de teksten op de schoolpagina's
 
 
