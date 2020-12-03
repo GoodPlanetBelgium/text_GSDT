@@ -11,6 +11,8 @@ Zichtbaar bij log-in
 
 - faq/content	
 
+- faq/title/entity_dashboard	Help voor de beheerder	
+
 - faq/content/energy	
 	
 - faq/content/energy/action	
@@ -44,7 +46,5 @@ Zichtbaar bij log-in
 
 
 faq/title	FAQ	FAQ	
-
-faq/title/entity_dashboard	Help voor de beheerder		
 
 faq_link
