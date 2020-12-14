@@ -4,7 +4,7 @@ Leerkracht en leerlingen kunnen samen data verzamelen, de gegevens op een leuke 
 
 <p>
 
-Heeft u vragen over het platform of hoe het werkt? Neem contact met ons op via 
+Heb je vragen over het platform of hoe het werkt? Neem contact met ons op via 
 <strong>gsdt@goodplanet.be<strong>
 
 </p>
