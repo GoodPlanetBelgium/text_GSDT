@@ -1,6 +1,6 @@
-#Bienvenue sur GoodSchool DigiTool!
+# Bienvenue sur GoodSchool DigiTool!
 
-##Bravo, vous êtes inscrit·e
+## Bravo, vous êtes inscrit·e
 
 <a href="https://www.goodplanet.be/fr/">GoodPlanet</a>  et le GoodSchool DigiTool aident les écoles à mesurer leur impact environnemental. Découvrez comment dans cette vidéo!
 
