@@ -106,13 +106,13 @@ Om je school te vergelijken met andere scholen hebben we meer gegevens nodig ove
 
 ### 6. Welke leerdoelen worden er behaald met de Good School Digitool?
 
-Voor het basisonderwijs helpte de GoodSchool Digitool je om vele eindtermen te behalen voor ICT, wetenschap en techniek en wiskunde. Namelijk:
+Voor het basisonderwijs helpt de GoodSchool Digitool je om vele eindtermen te behalen voor ICT, wetenschap en techniek en wiskunde. Namelijk:
 
 ![](https://github.com/GoodPlanetBelgium/text_GSDT/raw/main/images/leerdoelen%20basisonderwijs.png)
 
 ## Voor gemeenten en scholengroepen
 
-### 1. Kan mijn school zich vergelijken met een school uit de buurt?
+### 1. Kunnen scholen zich vergelijken met een andere school uit de buurt?
 
 Jazeker! Dat is zelfs heel leuk om te doen. Wij begeleiden jullie hier graag in. Wil je werken rond energie, water, afval of mobiliteit? Stuur ons een mailtje op gsdt@goodplanet.be en wij staan klaar voor jullie!
 
